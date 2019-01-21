@@ -7,7 +7,7 @@ brew 'node'
 brew 'unrar'
 brew 'mas'
 brew 'wget'
-brew 'yarn', [args: 'without-node']
+brew 'yarn', args: ['without-node']
 brew 'youtube-dl'
 brew 'git'
 
