@@ -26,5 +26,6 @@ cask 'filezilla'
 cask 'sketch'
 cask 'abstract'
 cask 'zeplin'
+cask 'discord'
 
 mas 'LimeChat', id: 414030210
